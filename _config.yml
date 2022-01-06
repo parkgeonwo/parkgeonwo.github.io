@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             deep learning
-    url:               /example/
+    url:               /deep-learning/
   - title:             cs
-    url:               /docs/
+    url:               /cs/
   - title:             About
     url:               /about/
 
