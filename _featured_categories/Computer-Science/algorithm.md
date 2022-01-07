@@ -1,7 +1,7 @@
 ---
 layout: list
-category: Computer-Science
-bigtitle: algorithm
+category: computer-science
+bigtitle: Algorithm
 slug: algorithm
 description: >
   algorithm

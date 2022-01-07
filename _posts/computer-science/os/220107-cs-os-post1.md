@@ -6,7 +6,7 @@ description: >
 sitemap: false
 hide_last_modified: true
 categories:
-  - Computer-Science
+  - computer-science
   - OS
 ---
 

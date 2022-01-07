@@ -1,8 +1,8 @@
 ---
 layout: list
-category: Computer-Science
+category: computer-science
 bigtitle: OS
-slug: OS
+slug: os
 description: >
   Operating System
 

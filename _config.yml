@@ -48,21 +48,21 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             deep-learning
+  - title:             Deep-Learning
     url:               /deep-learning/
     submenu:
-      - title:         theory
+      - title:         Theory
         url:           /theory/
-      - title:         paper
+      - title:         Paper
         url:           /paper/
 
   - title:             Computer-Science
-    url:               /Computer-Science/
+    url:               /computer-science/
     submenu:
-      - title:         algorithm
+      - title:         Algorithm
         url:           /algorithm/
       - title:         OS
-        url:           /OS/
+        url:           /os/
 
   - title:             About
     url:               /about/

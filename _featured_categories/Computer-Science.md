@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: Computer-Science
-slug: Computer-Science
+slug: computer-science
 menu: true
 submenu: true
 description: >
@@ -12,11 +12,11 @@ description: >
 
 ## 카테고리
 
-* [algorithm]{:.heading.flip-title} --- 알고리즘 노트
+* [Algorithm]{:.heading.flip-title} --- 알고리즘 노트
 * [OS]{:.heading.flip-title} --- 운영체제 노트
 
-[algorithm]: /algorithm/
-[OS]: /OS/
+[Algorithm]: /algorithm/
+[OS]: /os/
 
 
 

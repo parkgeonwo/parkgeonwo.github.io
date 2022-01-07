@@ -1,7 +1,7 @@
 ---
 layout: list
 category: deep-learning
-bigtitle: theory
+bigtitle: Theory
 slug: theory
 description: >
   theory

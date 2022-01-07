@@ -1,7 +1,7 @@
 ---
 layout: list
 category: deep-learning
-bigtitle: paper
+bigtitle: Paper
 slug: paper
 description: >
   paper
