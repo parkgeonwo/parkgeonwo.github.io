@@ -1,21 +1,19 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
-
-# The title of the tag's page.
-title: deep learning
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: deep learning
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
+bigtitle: deep-learning
+slug: deep-learning
+menu: true
+submenu: true
 description: >
-  메뉴 예시1
-
-# (Optional) You can disable grouping posts by date.
-# no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+  하위 메뉴 예시
 ---
+
+# Subcat
+
+## 카테고리
+
+* [Test1]{:.heading.flip-title} --- theory
+* [Test2]{:.heading.flip-title} --- paper
+
+[Test1]: /test1/
+[Test2]: /test2/
