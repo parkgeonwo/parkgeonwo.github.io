@@ -58,6 +58,11 @@ menu:
 
   - title:             CS
     url:               /CS/
+    submenu:
+      - title:         algorithm
+        url:           /algorithm/
+      - title:         OS
+        url:           /OS/
   - title:             About
     url:               /about/
 
