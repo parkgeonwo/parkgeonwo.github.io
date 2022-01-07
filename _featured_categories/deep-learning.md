@@ -8,12 +8,12 @@ description: >
   하위 메뉴 예시
 ---
 
-# Subcat
+# deep-learning
 
 ## 카테고리
 
-* [Test1]{:.heading.flip-title} --- theory
-* [Test2]{:.heading.flip-title} --- paper
+* [theory]{:.heading.flip-title} --- 딥러닝 이론 노트
+* [paper]{:.heading.flip-title} --- 딥러닝 논문 노트
 
-[Test1]: /test1/
-[Test2]: /test2/
+[theory]: /theory/
+[paper]: /paper/
