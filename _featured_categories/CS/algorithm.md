@@ -4,7 +4,7 @@ category: CS
 bigtitle: algorithm
 slug: algorithm
 description: >
-  하위메뉴 테스트2
+  algorithm
 
 related_posts:
     - 

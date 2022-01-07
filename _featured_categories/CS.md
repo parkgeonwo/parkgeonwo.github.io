@@ -1,7 +1,7 @@
 ---
 layout: list
-bigtitle: CS(Computer Science)
-slug: CS(Computer Science)
+bigtitle: CS
+slug: CS
 menu: true
 submenu: true
 description: >

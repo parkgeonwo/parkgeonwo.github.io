@@ -1,10 +1,10 @@
 ---
 layout: list
 category: CS
-bigtitle: OS(Operating System)
-slug: OS(Operating System)
+bigtitle: OS
+slug: OS
 description: >
-  하위메뉴 테스트2
+  Operating System
 
 related_posts:
     - 
