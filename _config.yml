@@ -63,7 +63,7 @@ menu:
         url:           /algorithm/
       - title:         OS
         url:           /OS/
-        
+
   - title:             About
     url:               /about/
 
