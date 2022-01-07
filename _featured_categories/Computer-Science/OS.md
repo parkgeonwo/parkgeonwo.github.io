@@ -1,6 +1,6 @@
 ---
 layout: list
-category: CS
+category: Computer-Science
 bigtitle: OS
 slug: OS
 description: >

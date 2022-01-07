@@ -56,8 +56,8 @@ menu:
       - title:         paper
         url:           /paper/
 
-  - title:             CS
-    url:               /CS/
+  - title:             Computer-Science
+    url:               /Computer-Science/
     submenu:
       - title:         algorithm
         url:           /algorithm/

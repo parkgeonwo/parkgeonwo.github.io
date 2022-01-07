@@ -1,14 +1,14 @@
 ---
 layout: list
-bigtitle: CS
-slug: CS
+bigtitle: Computer-Science
+slug: Computer-Science
 menu: true
 submenu: true
 description: >
-  CS 학습 노트
+  Computer-Science 학습 노트
 ---
 
-# CS(Computer Science)
+# Computer-Science
 
 ## 카테고리
 
