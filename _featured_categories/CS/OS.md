@@ -1,6 +1,6 @@
 ---
 layout: list
-category: deep-learning
+category: CS
 bigtitle: OS(Operating System)
 slug: OS(Operating System)
 description: >

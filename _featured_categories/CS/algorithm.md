@@ -1,6 +1,6 @@
 ---
 layout: list
-category: deep-learning
+category: CS
 bigtitle: algorithm
 slug: algorithm
 description: >

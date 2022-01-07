@@ -5,7 +5,7 @@ slug: deep-learning
 menu: true
 submenu: true
 description: >
-  하위 메뉴 예시
+  딥러닝 학습 노트
 ---
 
 # deep-learning

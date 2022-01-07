@@ -5,7 +5,7 @@ slug: CS(Computer Science)
 menu: true
 submenu: true
 description: >
-  하위 메뉴 예시 2
+  CS 학습 노트
 ---
 
 # CS(Computer Science)

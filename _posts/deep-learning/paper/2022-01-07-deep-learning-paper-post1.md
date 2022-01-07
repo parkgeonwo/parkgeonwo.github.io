@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: true
 categories:
   - deep-learning
-  - theory
+  - paper
 ---
 
 
