@@ -2,7 +2,7 @@
 layout: post
 title: deep-learning-paper-post1
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  딥러닝 관련 논문 검색하는 꿀팁
 sitemap: false
 hide_last_modified: true
 categories:
@@ -10,108 +10,64 @@ categories:
   - paper
 ---
 
+## 세가지만 기억하자. (탑 컨퍼런스, 아카이브, 유명 연구실 및 기업)
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## 1. 탑 컨퍼런스
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+분야 마다 탑 컨퍼런스가 존재한다.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+컨퍼런스에서 발표되는 논문들을 읽어보는게 좋다.	
 
-## Inline HTML elements
+인공지능, 컴퓨터 비전분야 탑컨퍼런스 : NIPS, ICML, ICLR, CVPR, ICCV
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+자연어 처리 : ACL, NACCL
 
-- **To bold text**, use `**To bold text**`.
-- *To italicize text*, use `*To italicize text*`.
-- Abbreviations, like HTML should be defined like this `*[HTML]: HyperText Markup Language`.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- ~~Deleted~~ text should use `~~deleted~~` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+이밖에 많은 컨퍼런스가 존재한다.
 
-Most of these elements are styled by browsers with few modifications on our part.
+유명하지 않은 학회에서도 좋은 논문이 나올때가 있다.
 
-## Heading 2
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+컨퍼런스마다 성향이 다르다. 이론을 많이 다루느냐 & 실험적으로 성능을 잘나오는게 더 높은 평가를 받느냐
 
-### Heading 3
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+컨퍼런스는 발표 세션이 나눠진다 oral / spotlight / poster
 
-#### Heading 4
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+일반적으로는 oral 세션에서 더 높은 평가를 받는 논문들을 소개한다.
 
-##### Heading 5
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+poster로 발표되도 나중에 인용이 많이 되는거도 있다.
 
-###### Heading 6
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+또한, 유튜브에 논문 정리나 탑컨퍼런스 영상도 있으니 참고하자. 
 
-## Code
+논문안에 소스코드가 깃허브로 공유되고 있는 경우가 많으니 코드와 논문을 함께 보면서 이해하도록 하자 (정작 코드로 보면 간단한 경우가 많다.)
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+굼금한게 있으면 저자의 이름을 검색해서 이메일로 연락해보는것도 좋다.
 
-~~~js
-// Example can be run directly in your JavaScript console
 
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
+## 2. 아카이브
 
-// Call the function
-adder(2, 6);
-// > 8
-~~~
+컨퍼런스보다 더 최신 연구찾아볼떼
 
-## Lists
+구글에 arxiv 검색
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+but 검증이 안된 논문이 많기 때문에 저자가 누구인지 어떤 연구실이 유명한지 알아보고 읽자
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+## 3. 유명 연구실 혹은 기업
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+자주 검색하다보면 유명 연구실이나 기업이 보일 것이다.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+그런곳은 어느정도 믿음이 있다.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+## 검색방법
 
-HyperText Markup Language (HTML)
-: The language used to describe and define the content of a Web page
+구글에서 자기 분야 + TOP conference 치면 리스트가 나옴
 
-Cascading Style Sheets (CSS)
-: Used to describe the appearance of Web content
+각 컨퍼런스에서 발표가 된 논문을 구글에 다시 처보자
 
-JavaScript (JS)
-: The programming language used to build advanced Web sites and applications
+ex ) CVPR 2020 accepted papers list
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+들어가서 세부적으로 자신이 관심있는 것을 검색
 
-## Images
+abstract 부터 읽어보고 관심있으면 읽자!
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![800x400](https://via.placeholder.com/800x400 "Large example image")
 
-![400x200](https://via.placeholder.com/400x200 "Medium example image")
 
-![200x200](https://via.placeholder.com/200x200 "Small example image")
 
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-| Name     | Upvotes   | Downvotes |
-|:---------|:----------|:----------|
-| Alice    |        10 |        11 |
-| Bob      |         4 |         3 |
-| Charlie  |         7 |         9 |
-|==========|===========|===========|
-|Totals    |        21 |        23 |
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheets
-*[JS]: JavaScript
