@@ -33,11 +33,11 @@ hide_description: true
 
 ## Education
 ---
--2020. 04 – 2020. 10
+- 2020. 04 – 2020. 10 빅데이터/머신러닝 전문가 양성과정
 
 ## Skills and Certification
 ---
--Language : Python, R, SQL
+- Language : Python, R, SQL
 
--FrameWork: Pytorch, Tensorflow(Keras)
+- FrameWork: Pytorch, Tensorflow(Keras)
 
