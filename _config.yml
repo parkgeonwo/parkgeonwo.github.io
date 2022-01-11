@@ -48,6 +48,9 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
+
   - title:             Deep-Learning
     url:               /deep-learning/
     submenu:
@@ -64,8 +67,9 @@ menu:
       - title:         OS
         url:           /os/
 
-  - title:             About
-    url:               /about/
+  - title:             Git
+    url:               /git/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

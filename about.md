@@ -10,44 +10,34 @@ hide_description: true
 <!--author-->
 ***
 <center>
-<span style="font-size:170%;font-weight:bold"> 김현우
+<span style="font-size:170%;font-weight:bold"> 박건우
 </span>
 </center>
-<center>MAJOR : AI EENGINEERING</center>
-<center>Korean University</center>
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>AI EENGINEERING</center>
+<center>Seoul, Republic of Korea</center>
 ## Personal Data
 ---
-> 19xx.xx.xx 대한민국,xx 시,xx 구 출생> 연락처: khw11044@gmail.com
-> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
+> 1994.12.17 대한민국,대구시,달서구 출생> 연락처: parkkeonwo@naver.com
+> Github : [https://github.com/parkgeonwo](https://github.com/parkgeonwo) ## Education
 ---
-> Mar.20xx ~ Feb.20xx xx 대학교
+> 03.2014 ~ 08.2020 홍익 대학교
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
+> 신소재공학과 (Materials science&engineering)
 ## Research Interest
  
 ---
 * Computer Vision
 + image Object Detection
-+ Vot
-+ Semantic/Instance Segmentation + Super Resolution
-* Machine Learning / Deep Learning + GAN
-    + Few-Shot Learning
-    + Meta Learning## Project
+* Machine Learning / Deep Learning
+
+
+## Education
 ---
-* **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App**
-## Awards
----
-[***2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020***](https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s)
-- [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a>
-## Work Experiences
----
--2020. 07 – 2020. 11
-Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020)
+-2020. 04 – 2020. 10
+
 ## Skills and Certification
 ---
--Language : Python, C/C++
+-Language : Python, R, SQL
+
 -FrameWork: Pytorch, Tensorflow(Keras)
--Certification : CCNA, Internet of Things Knowledge Certification
+
