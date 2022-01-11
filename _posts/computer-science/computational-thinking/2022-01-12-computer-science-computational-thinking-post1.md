@@ -50,6 +50,7 @@ boost course의 강의 내용으로 공부를 진행하였습니다.
 그 중간에 있는 과정이 바로 컴퓨터 과학입니다. 
 
 ![binary1](./binary/binary1.png){: width="50%"}
+![400x200](https://cphinf.pstatic.net/mooc/20200607_118/1591509237959928I3_PNG/mceclip0.png "Medium example image")
 
 이러한 입력과 출력을 표현하기 위해선 우선 모두가 동의할 약속(표준)이 필요합니다.
 
