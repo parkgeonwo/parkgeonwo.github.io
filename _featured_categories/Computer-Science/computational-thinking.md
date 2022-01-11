@@ -1,13 +1,13 @@
 ---
 layout: list
 category: computer-science
-bigtitle: OS
-slug: os
+bigtitle: Computational-Thinking
+slug: computational-thinking
 description: >
-  Operating System
+  Computational-Thinking
 
 related_posts:
     - 
 list: true
-order: 3
+order: 1
 ---

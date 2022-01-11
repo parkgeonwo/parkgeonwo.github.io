@@ -62,6 +62,8 @@ menu:
   - title:             Computer-Science
     url:               /computer-science/
     submenu:
+      - title:         Computational-Thinking
+        url:           /computational-thinking/
       - title:         Algorithm
         url:           /algorithm/
       - title:         OS
