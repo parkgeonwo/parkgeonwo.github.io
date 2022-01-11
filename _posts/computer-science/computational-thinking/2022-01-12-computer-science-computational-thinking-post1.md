@@ -49,7 +49,6 @@ boost course의 강의 내용으로 공부를 진행하였습니다.
 
 그 중간에 있는 과정이 바로 컴퓨터 과학입니다. 
 
-![binary1](./binary/binary1.png){: width="50%"}
 ![400x200](https://cphinf.pstatic.net/mooc/20200607_118/1591509237959928I3_PNG/mceclip0.png "Medium example image")
 
 이러한 입력과 출력을 표현하기 위해선 우선 모두가 동의할 약속(표준)이 필요합니다.
@@ -71,7 +70,7 @@ boost course의 강의 내용으로 공부를 진행하였습니다.
 
 우선 123을 보겠습니다. 여러분들도 저와 마찬가지로 '백이십삼'으로 읽을 것입니다.
 
-![binary2](./binary/binary2.png){: width="50%"}
+![300x200](https://cphinf.pstatic.net/mooc/20200607_185/1591510753380nYdg2_PNG/mceclip1.png "Medium example image")
 
 우리가 '백이십삼'으로 읽는 이유는 1을 백의자리, 2를 십의자리, 3을 일의자리로 보기 때문이죠.
 
@@ -85,13 +84,13 @@ boost course의 강의 내용으로 공부를 진행하였습니다.
 
 비슷하게 2진법에서는 두 개의 숫자만 있으므로 각 자리수가 2의 거듭제곱을 의미합니다.
 
-![binary3](./binary/binary3.png){: width="50%"}
+![400x100](https://cphinf.pstatic.net/mooc/20200607_209/1591512453958WWybq_PNG/mceclip2.png "Medium example image")
 
 그럼 이 방법으로 10진법의 3을 2진법으로 표현하면 어떻게 될까요?
 
 바로 11입니다. 표를 보시면 2진법에서는 두 번째 자리는 2¹로 2입니다.
 
-![binary4](./binary/binary4.png){: width="50%"}
+![200x200](https://cphinf.pstatic.net/mooc/20200607_19/1591512545601J5dkm_PNG/mceclip3.png "Medium example image")
 
 따라서 2진법에서 11은 2¹x1 + 1x1 = 3입니다.
 
@@ -132,13 +131,13 @@ boost course의 강의 내용으로 공부를 진행하였습니다.
 
 테라바이트는 1,000 기가바이트(1조 바이트)이며, 심지어 페타바이트와 엑사바이트와 같은 더 큰 단위도 존재합니다.
 
-![binary5](./binary/binary5.jpg){: width="50%"}
+![200x200](https://cphinf.pstatic.net/mooc/20171117_70/1510912069789p09Nl_JPEG/1.1_-01.jpg?type=w760 "Medium example image")
 
-![binary6](./binary/binary6.jpg){: width="50%"}
+![400x200](https://cphinf.pstatic.net/mooc/20170712_297/1499826249488D4i2V_PNG/1.1_-02.png?type=w760 "Medium example image")
 
 ### 다양한 데이터 표현하기
 
-![binary7](./binary/binary7.jpg){: width="50%"}
+![800x400](https://cphinf.pstatic.net/mooc/20170712_75/1499826291828lfvjK_PNG/1.1_-03.png?type=w760 "Medium example image")
 
 하나의 비트로는 어떠한 값이 참인지 거짓인지, 예를 들면, 노트북이나 휴대전화가 충전 중인지 아닌지에 대한 정보만 컴퓨터에 저장할 수 있습니다.
 
