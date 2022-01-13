@@ -12,7 +12,7 @@ description: >
 
 ## 카테고리
 
-* [Computational-Thinking]{:.heading.flip-title}
+* [Computational-Thinking]{:.heading.flip-title} --- 컴퓨터 공학의 기본
 * [Algorithm]{:.heading.flip-title} --- 알고리즘 노트
 * [OS]{:.heading.flip-title} --- 운영체제 노트
 

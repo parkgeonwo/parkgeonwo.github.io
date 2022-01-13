@@ -17,12 +17,17 @@ hide_description: true
 <center>Seoul, Republic of Korea</center>
 ## Personal Data
 ---
-> 1994.12.17 대한민국,대구시,달서구 출생> 연락처: parkkeonwo@naver.com
-> Github : [https://github.com/parkgeonwo](https://github.com/parkgeonwo) ## Education
+> 1994.12.17 대한민국,대구시,달서구 출생
+
+> 연락처: parkkeonwo@naver.com
+
+> Github : [https://github.com/parkgeonwo](https://github.com/parkgeonwo)
 ---
-> 03.2014 ~ 08.2020 홍익 대학교
->
+
+> 03.2014 ~ 08.2020 홍익대학교
+
 > 신소재공학과 (Materials science&engineering)
+
 ## Research Interest
  
 ---
@@ -33,7 +38,7 @@ hide_description: true
 
 ## Education
 ---
-- 2020. 04 – 2020. 10 빅데이터/머신러닝 전문가 양성과정
+- 2021. 04 – 2021. 10 빅데이터/머신러닝 전문가 양성과정
 
 ## Skills and Certification
 ---
