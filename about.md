@@ -22,6 +22,8 @@ hide_description: true
 > 연락처: parkkeonwo@naver.com
 
 > Github : [https://github.com/parkgeonwo](https://github.com/parkgeonwo)
+
+> Portfolio : [https://parkgeonwoo2.github.io/](https://parkgeonwoo2.github.io/)
 ---
 
 > 03.2014 ~ 08.2020 홍익대학교
