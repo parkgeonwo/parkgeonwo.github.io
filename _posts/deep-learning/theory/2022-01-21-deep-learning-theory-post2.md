@@ -10,7 +10,7 @@ categories:
   - theory
 ---
 
-## 딥러닝 면접 이론 질문 1
+## 딥러닝 면접 질문 : sigmoid 대신 ReLU를 사용하는 이유가 뭔가요?
 
 ### sigmoid 대신 ReLU를 사용하는 이유가 뭔가요?
 
