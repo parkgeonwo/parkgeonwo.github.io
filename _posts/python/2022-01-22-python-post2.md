@@ -22,7 +22,6 @@ categories:
 ![400x200](https://postfiles.pstatic.net/MjAyMjAxMjJfMzMg/MDAxNjQyODYxMTAxMDI0.yeUZJPIZ1P_lQt8TzXfVHEefSYfcyQUl9BpcNDeTtcIg.zRN8rhwg_LPjm20YV9LsNyI7J5tGMm600_2GIVQVPL8g.PNG.parkkeonwo/image.png?type=w966)
 
 
-
 ### 스레드란 ?
 
 여러분이 사용하는 PC에는 윈도우, macOS, 리눅스와 같은 운영체제가 설치되어 있습니다. 운영체제는 컴퓨터를 전체적으로 관리하는 매니저 역할을 합니다. 우리가 프로그램이라고 부르는 것들은 운영체제 위에서 동작합니다. 프로그램이 메모리에 올라가서 실행 중인 것을 프로세스(process)라고 부릅니다. 프로세스의 실행 단위를 스레드라고 합니다. 프로세스는 최소 하나 이상의 스레드를 갖으며 경우에 따라 여러 스레드를 가질 수도 있습니다.
@@ -31,6 +30,7 @@ categories:
 
 ![300x300](https://postfiles.pstatic.net/MjAyMjAxMjJfMTIz/MDAxNjQyODYxMTE1NDE4.hNvvU8f7VSB9K52gNT7byZKf2_GT3W_rNLLwnsl077Mg.A_GCRRAfgbo6X8caar-iy9e-lKIpfSF6MvhoV-HIH3Eg.PNG.parkkeonwo/image.png?type=w966)
 
+![400x200](https://blogfiles.pstatic.net/MjAyMjAxMjJfMzMg/MDAxNjQyODYxMTAxMDI0.yeUZJPIZ1P_lQt8TzXfVHEefSYfcyQUl9BpcNDeTtcIg.zRN8rhwg_LPjm20YV9LsNyI7J5tGMm600_2GIVQVPL8g.PNG.parkkeonwo/image.png)
 
 ### 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)
 
