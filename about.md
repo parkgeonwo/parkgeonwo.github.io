@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/pig.jpg
 description: >
-		인공지능을 공부하고있는 학생입니다.
+		데이터를 통해 인사이트를 얻고, 많은 것을 만들어보고 싶습니다.
 hide_description: true
 ---
 
@@ -13,7 +13,7 @@ hide_description: true
 <span style="font-size:170%;font-weight:bold"> 박건우
 </span>
 </center>
-<center>AI EENGINEERING</center>
+<center>Data scientist</center>
 <center>Seoul, Republic of Korea</center>
 ## Personal Data
 ---
@@ -24,6 +24,7 @@ hide_description: true
 > Github : [https://github.com/parkgeonwo](https://github.com/parkgeonwo)
 
 > Portfolio : [https://parkgeonwoo2.github.io/](https://parkgeonwoo2.github.io/)
+
 ---
 
 > 03.2014 ~ 08.2020 홍익대학교
@@ -33,18 +34,18 @@ hide_description: true
 ## Research Interest
  
 ---
+* Data analysis
 * Computer Vision
-+ image Object Detection
 * Machine Learning / Deep Learning
 
 
 ## Education
 ---
-- 2021. 04 – 2021. 10 빅데이터/머신러닝 전문가 양성과정
+> 04.2021 – 10.2021 빅데이터/머신러닝 전문가 양성과정
 
 ## Skills and Certification
 ---
 - Language : Python, R, SQL
 
-- FrameWork: Pytorch, Tensorflow(Keras)
+- FrameWork: Pytorch, Tensorflow(Keras), Pandas
 

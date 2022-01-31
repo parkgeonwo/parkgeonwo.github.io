@@ -25,13 +25,13 @@ title:                 개발 노트 블로그
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  실생활에 도움되는 기술을 만들기 위해 노력하는 개발 노트
+  기억에서 사라져도 다시 채워넣기 위한 개발 노트
 
 # A shorter description for the sidebar.
 tagline:               기억보단 기록을
 
 # A list of keywords for your blog
-keywords:              [AI, deep learning, git, gitblog]
+keywords:              [AI, deep learning, data anaylsis, git, gitblog]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
