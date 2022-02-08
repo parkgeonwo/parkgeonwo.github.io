@@ -40,22 +40,28 @@ categories:
 
 - relu
    - relu의 수식
+
    ![200x100](https://t1.daumcdn.net/cfile/tistory/9954A93C5B06AAEB2D)
 
    - relu의 수식에서 x에 대한 y의 미분
+
    ![200x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbURUsW%2FbtqAK40NRNW%2FrlUqsXRGG5dkGFJViUVvQK%2Fimg.png)
 
    - relu 계층의 계산 그래프
+
    ![300x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPgp1D%2FbtqAKhl4f1d%2FCU03m5gaYX0TsZyKxYcFAK%2Fimg.png)
 
 - sigmoid
    - 시그모이드 수식
+
    ![200x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbuXy9x%2FbtqALQgKeCz%2FREaaWJwaxHwamvvo9rBND0%2Fimg.png)
 
    - 시그모이드 계층의 계산그래프 (간소화)
+
    ![200x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvPr42%2FbtqAJguEsdA%2FUiGw0rXsKC2uslPUV01FQ0%2Fimg.png)
 
    - dL/dy * y^2 * exp(-x)은 다음처럼 정리해서 쓸 수 있다.
+
    ![400x200](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FS4aIY%2FbtqAK4Gy0by%2FqiSZM4buvGUgxbFCurlO40%2Fimg.png)
 
 ### chapter 5.6.1 Affine 계층
@@ -65,6 +71,7 @@ categories:
 ### chapter 5.6.3 Softmax-with-Loss 계층
 
 - 손실 함수인 교차 엔트로피 오차도 포함하여 'Softmax-with-Loss 계층'이라는 이름으로 구현한다.
+
    ![350x300](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrWMeM%2FbtqQptySbcy%2FOcmx41ncd8SD6e7nPhVAkK%2Fimg.png)
 
 - '소프트맥스 함수'의 손실 함수로 '교차 엔트로피 오차'를 사용하니 역전파가 (y1-t1, y2-t2, y3-t3)로 말끔히 떨어진다. 이런 말끔함은 우연이 아니라 교차 엔트로피 오차라는 함수가 그렇게 설계되었기 때문이다. 또한, 회귀의 출력층에서 사용하는 '항등 함수'의 손실 함수로 '오차 제곱합'을 이용하는 이유도 이와 같다. 즉 '항등 함수'의 손실 함수로 '오차제곱합'을 사용하면 역전파의 결과가 (y1-t1, y2-t2, y3-t3)로 말끔히 떨어진다.
