@@ -25,11 +25,13 @@ categories:
 ### chapter 6.1.2 확률적 경사 하강법(SGD)
 
 - SGD의 수식
+
    ![100x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FFs4Y3%2FbtqFt6ndQjT%2F4QCJLDwHBIgAdwYbeoac01%2Fimg.png)
 
 ### chapter 6.1.3 SGD의 단점
 
 - SGD에 의한 최적화 갱신 경로 : 최솟값인 (0,0)까지 지그재그로 이동하니 비효율적이다.
+
    ![100x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc87nGX%2FbtqFtKdIfso%2Fapokj19hld4v1EKY4rydD1%2Fimg.png)
 
 - SGD의 단점은 비등방성 함수(방향에 따라 성질, 즉 여기에서는 기울기가 달라지는 함수)에서는 탐색 경로가 비효율적이라는 것이다.
@@ -37,23 +39,28 @@ categories:
 ### chapter 6.1.4 모멘텀
 
 - 모멘텀은 운동량을 뜻하는 단어다.
+
    ![150x100](https://mblogthumb-phinf.pstatic.net/MjAxODAyMDFfMTMz/MDAxNTE3NDEyNDkzOTY3.xc165v0N5R1xe5ajJO9g5z2sB-CQy3RwT1dfLIg9B3Eg.l09OGIx4-QRW6LjjiaSz7I30NQUfXVzHkEqgFZn0W1og.PNG.worb1605/image.png?type=w800)
 
    - W는 갱신할 가중치 매개변수, dL/dW 는 W에 대한 손실 함수의 기울기, η는 학습률이다. v 라는 변수가 새로 나오는데, 이는 물리에서 말하는 속도에 해당한다. 위의 식은 기울기 방향으로 힘을 받아 물체가 가속된다는 물리 법칙을 나타낸다.
    - αv항은 물체가 아무런 힘을 받지 않을 때 서서히 하강시키는 역할을 한다. 물리에서의 지면 마찰이나 공기 저항에 해당한다.
 
    - 모멘텀에 의한 최적화 갱신 경로
+
    ![200x200](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpWahY%2FbtqJ1KMBFiI%2FSJ8P6njpgqqy7FXH2qKKjk%2Fimg.png)
+
    - 지그재그 정도가 덜한 것을 알 수 있다. 이는 x축의 힘은 아주 작지만 방향은 변하지 않아서 한 방향으로 일정하게 가속하기 때문이다. 거꾸로 y축의 힘은 크지만 위아래로 번갈아 받아서 상충하여 y축 방향의 속도는 안정적이지 않다. 전체적으로는 SGD 보다 x축 방향으로 빠르게 다가가 지그재그 움직임이 줄어든다.
 
 ### chapter 6.1.5 AdaGrad
 
 - 학습률을 정하는 효과적 기술로 <strong>학습률 감소</strong>이 있다. AdaGrad는 개별 매개변수에 적응적으로 학습률을 조정하면서 학습을 진행한다. AdaGrad 갱신 방법의 수식은 다음과 같다.
+
    - ![200x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FH8MY9%2FbtqJ0owhSUL%2Fj7keQZ0PVQfy7RMS9F9tyK%2Fimg.png)
   
    - 매개변수를 갱신할 때 1/((h)^1/2)을 곱해 학습률을 조정한다. 매개변수의 원소 중에서 많이 움직인(크게 갱신된) 원소는 학습률이 낮아진다는 뜻인데, 다시 말해 학습률 감소가 매개변수의 원소마다 다르게 적용됨을 뜻한다.
 
    - AdaGrad에 의한 최적화 갱신 경로
+
    ![200x200](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcHAg5e%2FbtqJWTcMctz%2F6foaiv3ZaaD7mrJ8ZvaRe0%2Fimg.png)
 
 - RMSProp
@@ -64,6 +71,7 @@ categories:
 - 모멘텀과 AdaGrad 두 기법을 융한한 기법 : Adam
 - 두 기법의 이점을 조합하여 매개변수 공간을 효율적으로 탐색해준다. 또한, 하이퍼파라미터의 '편향 보정'이 진행된다는 점도 Adam의 특징이다.
 - Adam에 의한 최적화 갱신 경로
+
    ![200x200](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdt8EvM%2FbtqJWrm9RLv%2FkqUDwalmGKKWswlZ8waVoK%2Fimg.png)
 
 ### chapter 6.2 가중치의 초깃값
@@ -80,11 +88,13 @@ categories:
 
 - 은닉층의 활성화값(활성화 함수의 출력 데이터)의 분포를 관찰하면 중요한 정보를 얻을 수 있습니다.
 - 가중치를 표준편차가 1인 정규분포로 초기화할 때의 각 층의 활성화값 분포
+
    ![300x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbXwKX9%2FbtqJV5kvD2x%2FFsKOhrjF1hgpVWwqgqs3b1%2Fimg.png)
 
 - 각 층의 활성화값들이 0과 1에 치우쳐 분포되어있다. 그래서 데이터가 0과 1에 치우쳐 분포하게 되면 역전파의 기울기 값이 점점 작아지다가 사라집니다. 이것은 <strong>기울기 소실</strong>이라 알려진 문제입니다.
 
 - 가중치를 표준편차가 0.01인 정규분포로 초기화할 때의 각 층의 활성화값 분포
+
    ![300x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3Cc0d%2FbtqJ1Lkwt5r%2Fugja9FTEK9LXageJ8p5wF1%2Fimg.png)
 
 - 이번에는 0.5 부근에 집중되었다. 이 상황에서는 다수의 뉴런이 거의 같은 값을 출력하고 있으니 뉴런을 여러 개 둔 의미가 없어진다. 그래서 활성화 값을이 치우치면 <strong>표현력을 제한</strong>한다는 관점에서 문제가 된다.
@@ -94,11 +104,13 @@ categories:
 - 이를 해결하기 위해서 권장하는 가중치인 <strong>Xavier 초깃값</strong>을 사용한다. 앞 계층의 노드가 n개라면 표준편차가 (1/n)^(1/2)인 분포를 사용하면 된다.
 
 - 가중치의 초깃값으로 'Xavier 초깃값'을 이용할 때의 각 층의 활성화값 분포
+
    ![300x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FwHCjZ%2FbtqJ6dURrVt%2FlfJyeGZBqO8kL5h22AllE0%2Fimg.png)
 
 - 위의 그림은 오른쪽으로 갈수록 약간씩 일그러진다. 이 일그러짐은 sigmoid 대신 tanh 함수(쌍곡선 함수)를 이용하면 개선된다. 활성화 함수용으로는 원점에서 대칭인 함수가 바람직하다고 알려져있다.
 
 - Relu를 사용할 때의 가중치 초깃값은 <strong>He 초깃값</strong>을 사용한다. 앞 계층의 노드가 n개일 때, 표준편차가 (2/n)^(1/2)인 정규분포를 사용한다.
+
    ![400x400](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FU9XNE%2FbtqJZmsnc1t%2FYpvIHLUctK9ghmdHbERTJ0%2Fimg.png)
 
 - 결과를 보면 std = 0.01일 때의 각 층의 활성화값들은 아주 작은 값이다. 신경망에 아주 작은 데이터가 흐르는 것은 역전파 때 가중치의 기울기 역시 작아진다는 뜻이다. 이는 실제로 학습이 거의 이뤄지지 않을 것이다. Xavier 초깃값은 치우침이 조금씩 커진다. 이는 '기울기 소실' 문제를 일으킨다. He 초깃값은 모든 층에서 균일하게 분포되었다. 층이 깊어져도 분포가 균일하게 유지되게이 역전파 때도 적절한 값이 나올 것으로 기대할 수 있다.
@@ -115,7 +127,9 @@ categories:
    - 오버피팅을 억제한다(드롭아웃 등의 필요성 감소)
 
 - 배치 정규화의 기본 아이디어는 각 층에서의 활성화 값이 적당히 분포되도록 조정하는 것이다.
+
 - 배치 정규화를 사용한 신경망의 예
+
    ![300x100](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile29.uf.tistory.com%2Fimage%2F994586445BBE000E15CC3D)
 
 - 배치 정규화는 그 이름과 같이 학습 시 미니배치를 단위로 정규화한다. 구체적으로는 데이터 분포가 평균이 0, 분산이 1이 되도록 정규화 한다.
