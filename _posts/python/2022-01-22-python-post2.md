@@ -25,6 +25,9 @@ categories:
 
 ![title](/img/test.PNG){: width="300" height="200"}
 
+<img src="/img/test.JPG" width="300" height="200">
+
+![title](/img/test.JPG){: width="300" height="200"}
 
 ### 스레드란 ?
 
