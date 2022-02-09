@@ -1,16 +1,16 @@
 ---
 layout: post
-title: computer-science-array-post1
+title: computer-science-c-post1
 description: >
 
 sitemap: false
 hide_last_modified: true
 categories:
   - computer-science
-  - array
+  - c
 ---
 
-## Array
+## C
 
 
 
