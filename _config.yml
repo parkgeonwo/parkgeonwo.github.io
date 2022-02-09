@@ -64,10 +64,13 @@ menu:
     submenu:
       - title:         Computational-Thinking
         url:           /computational-thinking/
+      - title:         C
+        url:           /c/   
+      - title:         Array
+        url:           /array/   
       - title:         Algorithm
         url:           /algorithm/
-      - title:         OS
-        url:           /os/
+
 
   - title:             Git
     url:               /git/

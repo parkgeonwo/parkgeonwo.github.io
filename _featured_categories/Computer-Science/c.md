@@ -1,13 +1,13 @@
 ---
 layout: list
 category: computer-science
-bigtitle: Algorithm
-slug: algorithm
+bigtitle: C
+slug: c
 description: >
-  algorithm
+  c
 
 related_posts:
     - 
 list: true
-order: 4
+order: 2
 ---

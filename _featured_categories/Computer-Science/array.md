@@ -1,10 +1,10 @@
 ---
 layout: list
 category: computer-science
-bigtitle: OS
-slug: os
+bigtitle: Array
+slug: array
 description: >
-  Operating System
+  Array
 
 related_posts:
     - 
