@@ -21,7 +21,7 @@ categories:
 
 ![400x200](https://postfiles.pstatic.net/MjAyMjAxMjJfMzMg/MDAxNjQyODYxMTAxMDI0.yeUZJPIZ1P_lQt8TzXfVHEefSYfcyQUl9BpcNDeTtcIg.zRN8rhwg_LPjm20YV9LsNyI7J5tGMm600_2GIVQVPL8g.PNG.parkkeonwo/image.png?type=w966)
 
-<img src="./img/test.PNG" width="300" height="200">
+<img src="/img/test.PNG" width="300" height="200">
 
 
 

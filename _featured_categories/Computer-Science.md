@@ -13,13 +13,14 @@ description: >
 ## 카테고리
 
 * [Computational-Thinking]{:.heading.flip-title} --- 컴퓨터 공학의 기본
+* [C]{:.heading.flip-title} --- C언어 노트
+* [OS]{:.heading.flip-title} --- 배열 노트
 * [Algorithm]{:.heading.flip-title} --- 알고리즘 노트
-* [OS]{:.heading.flip-title} --- 운영체제 노트
 
 [Computational-Thinking]: /computational-thinking/
-[Algorithm]: /algorithm/
+[C]: /c/
 [OS]: /os/
-
+[Algorithm]: /algorithm/
 
 
 
