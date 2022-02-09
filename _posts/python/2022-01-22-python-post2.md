@@ -19,28 +19,8 @@ categories:
 
 놀이터에는 응응 프로그램이 놀 수 있습니다. 운영체제 입장에서 놀이터에 있는 플레이어를 스레드라고 부릅니다. 어떤 응용 프로그램은 한 번에 여러 가지 작업을 수행해야 하는 경우도 있습니다. 이 경우 동일한 놀이터(프로세스)에 두 아이(스레드)가 있는데 놀이터에 있는 모든 장난감(컴퓨터 자원)은 공유한다고 생각하면 됩니다.
 
-![400x200](https://postfiles.pstatic.net/MjAyMjAxMjJfMzMg/MDAxNjQyODYxMTAxMDI0.yeUZJPIZ1P_lQt8TzXfVHEefSYfcyQUl9BpcNDeTtcIg.zRN8rhwg_LPjm20YV9LsNyI7J5tGMm600_2GIVQVPL8g.PNG.parkkeonwo/image.png?type=w966)
+![image](https://user-images.githubusercontent.com/87109907/153125380-bc173b60-acbf-4bb0-9bb0-5fa3be8d380b.png){: width="400" height="300"}
 
-<img src="/img/test.PNG" width="300" height="200">
-
-![title](/img/test.PNG){: width="300" height="200"}
-
-<img src="/img/test.JPG" width="300" height="200">
-
-![title](/img/test.JPG){: width="300" height="200"}
-
-![test1](assets/img/test.PNG){: width="300" height="200"}
-
-![test2](./img/test.PNG){: width="300" height="200"}
-![test3](./img/test.JPG){: width="300" height="200"}
-
-![test4](https://drive.google.com/file/d/1yFa47ciBF6pjfxxXEeAbXDv3UW1XwQ_3/view?usp=sharing){: width="300" height="200"}
-
-![test4](https://drive.google.com/file/d/1yFa47ciBF6pjfxxXEeAbXDv3UW1XwQ_3/view?usp=sharing)
-
-![test](https://user-images.githubusercontent.com/87109907/153120232-f26e13e8-1dce-4e4c-ac78-c6c521a7ea06.JPG){: width="200" height="200"}
-
-![test](https://user-images.githubusercontent.com/87109907/153120232-f26e13e8-1dce-4e4c-ac78-c6c521a7ea06.JPG)
 
 ### 스레드란 ?
 
@@ -48,9 +28,8 @@ categories:
 
 여러분이 윈도우를 사용할 때를 생각해봅시다. 메신저도 사용하고 게임도 하고 문서작성도하고 인터넷도 사용할 것니다. 윈도우는 동시에 실행되는 여러 프로그램들을 잘 관리해야하는데 이런 작업을 스케줄링이라고 합니다. 운영체제는 스케쥴의 단위로 앞서 설명한 스레드를 사용합니다. 여러분이 프로그램을 작성할 때 여러 개의 스레드를 사용할 수 있는데 이를 멀티스레드라고 부릅니다. 이처럼 프로그램을 작성할 때 멀티스레드 형태로 구현을 하면 운영체제에 의해서 동시에 스케줄링(동시처럼 느껴지는) 될 수 있기 때문에 보통 성능이 더 좋아집니다.
 
-![300x300](https://postfiles.pstatic.net/MjAyMjAxMjJfMTIz/MDAxNjQyODYxMTE1NDE4.hNvvU8f7VSB9K52gNT7byZKf2_GT3W_rNLLwnsl077Mg.A_GCRRAfgbo6X8caar-iy9e-lKIpfSF6MvhoV-HIH3Eg.PNG.parkkeonwo/image.png?type=w966)
+![thread](https://user-images.githubusercontent.com/87109907/153120232-f26e13e8-1dce-4e4c-ac78-c6c521a7ea06.JPG){: width="400" height="400"}
 
-![400x200](https://blogfiles.pstatic.net/MjAyMjAxMjJfMzMg/MDAxNjQyODYxMTAxMDI0.yeUZJPIZ1P_lQt8TzXfVHEefSYfcyQUl9BpcNDeTtcIg.zRN8rhwg_LPjm20YV9LsNyI7J5tGMm600_2GIVQVPL8g.PNG.parkkeonwo/image.png)
 
 ### 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)
 
