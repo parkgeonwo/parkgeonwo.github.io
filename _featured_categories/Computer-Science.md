@@ -19,7 +19,7 @@ description: >
 
 [Computational-Thinking]: /computational-thinking/
 [C]: /c/
-[OS]: /os/
+[Array]: /Array/
 [Algorithm]: /algorithm/
 
 

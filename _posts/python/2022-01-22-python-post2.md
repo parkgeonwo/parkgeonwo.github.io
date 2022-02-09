@@ -23,6 +23,7 @@ categories:
 
 <img src="/img/test.PNG" width="300" height="200">
 
+![title](/img/test.PNG){: width="300" height="200"}
 
 
 ### 스레드란 ?
