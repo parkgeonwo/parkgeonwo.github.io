@@ -38,6 +38,10 @@ categories:
 
 ![test4](https://drive.google.com/file/d/1yFa47ciBF6pjfxxXEeAbXDv3UW1XwQ_3/view?usp=sharing)
 
+![test](https://user-images.githubusercontent.com/87109907/153120232-f26e13e8-1dce-4e4c-ac78-c6c521a7ea06.JPG){: width="200" height="200"}
+
+![test](https://user-images.githubusercontent.com/87109907/153120232-f26e13e8-1dce-4e4c-ac78-c6c521a7ea06.JPG)
+
 ### 스레드란 ?
 
 여러분이 사용하는 PC에는 윈도우, macOS, 리눅스와 같은 운영체제가 설치되어 있습니다. 운영체제는 컴퓨터를 전체적으로 관리하는 매니저 역할을 합니다. 우리가 프로그램이라고 부르는 것들은 운영체제 위에서 동작합니다. 프로그램이 메모리에 올라가서 실행 중인 것을 프로세스(process)라고 부릅니다. 프로세스의 실행 단위를 스레드라고 합니다. 프로세스는 최소 하나 이상의 스레드를 갖으며 경우에 따라 여러 스레드를 가질 수도 있습니다.
