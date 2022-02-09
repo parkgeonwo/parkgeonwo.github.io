@@ -107,6 +107,9 @@ clang hello.c 라는 명령어는 “clang” 이라는 컴파일러로 “hello
 한글 윈도우에서는 \를 ₩로 표시를 해주기 때문입니다. 따라서 ₩로 표시가 되어도 문제 없습니다.
 
 
-[2.C언어 강의자료.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8029671/2.C.pdf)
+[Clecture.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8029763/Clecture.pdf)
+
+[Cstudy.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8029762/Cstudy.pdf)
+
 
 
