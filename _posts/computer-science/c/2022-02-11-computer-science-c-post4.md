@@ -1,6 +1,6 @@
 ---
 layout: post
-title: computer-science-c-post3
+title: computer-science-c-post4
 description: >
 
 sitemap: false
@@ -35,7 +35,7 @@ C에서는 정수나 문자열 외에도 다양한 데이터 타입이 정의되
 - %
 - &&
 - ||
- 
+
 ### 데이터 타입
 
 아래 목록은 변수의 데이터 타입으로 사용할 수 있는 것들입니다.
