@@ -39,7 +39,7 @@ categories:
 
 이 경우에는 트리맵을 대안으로 적용해보시기 바랍니다
 
-[Tableau 활용한 데이터 시각적분석_Ep.5_태블로 부분 전체 분석.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038019/Tableau._Ep.5_.pdf)
+[TableauEp.5.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046073/TableauEp.5.pdf)
 
 
 ### Ep.6 태블로 상관 관계 분석
@@ -70,7 +70,6 @@ categories:
 
 데이터 설명 및 매개 변수와 함께 활용하시면 좀 더 다양한 결과를 확인하실 수 있습니다
 
-[Tableau 활용한 데이터 시각적분석_Ep.6_태블로 상관 관계 분석.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038020/Tableau._Ep.6_.pdf)
-
+[TableauEp.6.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046074/TableauEp.6.pdf)
 
 

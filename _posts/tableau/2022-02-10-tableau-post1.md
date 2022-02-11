@@ -32,8 +32,7 @@ Digital Transformation이란 디지털로 변신(변혁)을 한다는 뜻입니�
 
 기업과 구성원들의 당면 과제인 디지털 트랜스포메이션과 데이터 리터러시에 대해서 살펴봅니다.
 
-[Tableau 활용한 데이터 시각적분석_Ep.1_디지털로 전환.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038013/Tableau._Ep.1_.pdf)
-
+[TableauEp.1.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046068/TableauEp.1.pdf)
 
 
 ### Ep.2 태블로 이해 및 설치하기
@@ -66,7 +65,7 @@ Digital Transformation이란 디지털로 변신(변혁)을 한다는 뜻입니�
 
 여기에서는 Tableau Public을 설치 후 실습을 진행합니다.
 
-[Tableau 활용한 데이터 시각적분석_Ep.2_태블로 이해 및 설치하기.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038014/Tableau._Ep.2_.pdf)
+[TableauEp.2.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046070/TableauEp.2.pdf)
 
 
 ### Ep.3 태블로 기본 컨셉 이해하기 (1)
@@ -99,7 +98,7 @@ Digital Transformation이란 디지털로 변신(변혁)을 한다는 뜻입니�
 이것을 분할해서 보는 기준은 차원의 값으로 결정되는데,
 그 출발은 막대 차트부터 시작하게 됩니다.
 
-[Tableau 활용한 데이터 시각적분석_Ep.3_태블로 기본 컨셉 이해하기.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038015/Tableau._Ep.3_.pdf)
+[TableauEp.3.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046071/TableauEp.3.pdf)
 
 
 ### Ep.4 태블로 기본 컨셉 이해하기 (2)
@@ -151,7 +150,7 @@ Continuous fields draw axes.
 
 불연속형은 DATEPART 함수를, 연속형은 DATETRUNC 함수가 적용됩니다.
 
-[Tableau 활용한 데이터 시각적분석_Ep.4_태블로 기본 컨셉 이해하기.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8038018/Tableau._Ep.4_.pdf)
+[TableauEp.4.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046072/TableauEp.4.pdf)
 
 
 

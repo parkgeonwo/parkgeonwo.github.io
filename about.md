@@ -29,7 +29,7 @@ hide_description: true
 
 > 03.2014 ~ 08.2020 홍익대학교
 
-> 신소재공학과 (Materials science&engineering)
+> 신소재공학과 (Materials science & engineering)
 
 ## Research Interest
  
@@ -47,5 +47,5 @@ hide_description: true
 ---
 - Language : Python, R, SQL
 
-- FrameWork: Pytorch, Tensorflow(Keras), Pandas
+- FrameWork: Tensorflow(Keras), Pandas
 
