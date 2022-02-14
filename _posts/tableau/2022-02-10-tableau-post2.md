@@ -73,3 +73,62 @@ categories:
 [TableauEp.6.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8046074/TableauEp.6.pdf)
 
 
+### Ep.7 태블로 이중 축 vs 결합된 축
+
+### 학습 목표
+
+- 축을 이중으로 활용하는 이중 축과 하나의 축을 공유 또는 결합하는 결합된 축의 차이점과 활용법에 대해서 살펴봅니다.
+
+ 
+
+### 핵심 키워드
+
+- 이중 축 (Dual Axis)
+- 결합된 축 (Combined Axis)
+
+### 학습 내용
+
+이중 축 (Dual Axis)은
+
+하나의 뷰 안에서 축을 이중으로 써서 차트를 만드는 경우이며
+
+이중 축은 마크를 서로 다르게 구성이 가능합니다.
+
+반면에
+
+결합된 축 (Combined Axis)은
+
+하나의 뷰에서 같은 축을 결합 또는 공유하는 케이스이며
+
+결합된 축은 마크가 동일하게 구성됩니다.
+
+[TableauEp7.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8060386/TableauEp7.pdf)
+
+
+### Ep.8 태블로 그룹 vs 집합
+
+### 학습 목표
+
+- 여러 항목들을 묶어서 관리할 때 활용하는 그룹(Group)과 집합(Set)에 대해서 살펴봅니다. 
+
+### 핵심 키워드
+
+- 그룹 (Group)
+- 집합 (Set)
+- 결합된 집합 (Combined Set)
+
+### 학습 내용
+
+그룹은 항목들을 여러 그룹으로 묶을 수 있지만
+
+집합은 집합에 포함(IN)되는지 아닌지(OUT)으로만 구분합니다.
+
+또한 집합을 두 개 만든 다음에 이들을 결합해서 별도의 집합으로 만들 수 있습니다. 
+
+이 때 벤다이어그램 기준으로 집합의 모습에 따라 교집합, 합집합, 여집합으로 결합된 집합을 활용할 수 있습니다. 
+
+[TableauEp8.pdf](https://github.com/parkgeonwo/parkgeonwo.github.io/files/8060401/TableauEp8.pdf)
+
+
+
+
