@@ -84,6 +84,15 @@ menu:
   - title:             Tableau
     url:               /tableau/
 
+  - title:             Analysis
+    url:               /analysis/
+    submenu:
+      - title:         Analysis-method
+        url:           /analysis-method/
+      - title:         Statistics
+        url:           /statistics/
+
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
