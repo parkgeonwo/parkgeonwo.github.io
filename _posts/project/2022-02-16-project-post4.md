@@ -12,7 +12,9 @@ categories:
 ## 전자제품 쇼핑몰 서비스 건강성 분석
 
 [이론 배경](https://parkgeonwo.github.io/analysis/analysis-method/2022-02-14-analysis-analysis-method-post1/)
+
 [통계](https://parkgeonwo.github.io/analysis/statistics/2022-02-14-analysis-statistics-post1/)
+
 [전체 코드](https://github.com/parkgeonwo/user_data_service_analysis)
 
 ### 목적 
@@ -21,7 +23,7 @@ categories:
 
 ### 데이터 설명
 
-- (데이터셋 출처) https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store/version/1
+- [데이터셋 출처](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store/version/1) https://www.kaggle.com/mkechinov/ecommerce-events-history-in-electronics-store/version/1
 - 전자 제품 회사의 이커머스 이벤트 히스토리 (캐글)
 - 2019년 10월부터 2020년 2월까지 5월까지의 큰 전자제품 온라인 상점의 5달 동안의 유저 행동 데이터를 포함하고 있다
 - 각 데이터의 행은 이벤트를 나타내며, 이벤트는 상품과 유저와 관련이 있습니다
