@@ -47,15 +47,15 @@ categories:
 - 아래 유전자 x와 y의 그래프를 보자.
 - 점들을 보면 두 값이 서로 양의 상관관계가 있어보인다. (x증가시 y도 증가)
 
-![image](https://user-images.githubusercontent.com/87109907/155051468-bc565ac9-cc21-419f-acf6-09743259a662.png)
+![image](https://user-images.githubusercontent.com/87109907/155051468-bc565ac9-cc21-419f-acf6-09743259a662.png){: width="400" height="400"}
 
 - x와 y의 관계를 나타내는 선 하나를 그려보자
 
-![image](https://user-images.githubusercontent.com/87109907/155051516-b3843153-8c65-4fcb-bd07-a5f831308e3b.png)
+![image](https://user-images.githubusercontent.com/87109907/155051516-b3843153-8c65-4fcb-bd07-a5f831308e3b.png){: width="400" height="400"}
 
 - x가 주어졌을 때 y를 알 수 있다.
 
-![image](https://user-images.githubusercontent.com/87109907/155051556-3f84515a-9a93-4043-a62e-84e17e8dc135.png)
+![image](https://user-images.githubusercontent.com/87109907/155051556-3f84515a-9a93-4043-a62e-84e17e8dc135.png){: width="400" height="400"}
 
 - 데이터가 더 선에 가까울수록, x와 y의 관계는 강하다고 말할 수 있다.
 
@@ -63,7 +63,7 @@ categories:
 
 - 공분산의 수식
 
-![image](https://user-images.githubusercontent.com/87109907/155051752-f45e0bb3-0696-4ef9-a271-c09df208bee1.png)
+![image](https://user-images.githubusercontent.com/87109907/155051752-f45e0bb3-0696-4ef9-a271-c09df208bee1.png){: width="200" height="200"}
 
 - 선형관계가 없으면 다음과 같이 -,+,-,+,,, 공분산이 커지지 않는다.
 
@@ -74,7 +74,7 @@ categories:
 - 공분산은 값의 스케일이 크면 무한히 커질 수 있다.
 - <strong>각각ㄱ의 분산으로 공분산을 나눠서 값을 -1 ~ 1 사이의 값으로 들어오도록</strong> 스케일을 조정한 값이 상관계수이다.
 
-![image](https://user-images.githubusercontent.com/87109907/155051936-ecff4287-786a-403f-8bc6-9d25bfb9dd1e.png)
+![image](https://user-images.githubusercontent.com/87109907/155051936-ecff4287-786a-403f-8bc6-9d25bfb9dd1e.png){: width="400" height="300"}
 
 ![image](https://user-images.githubusercontent.com/87109907/155051973-1786608f-d2f6-42b3-a78c-6daf4f483ddb.png)
 

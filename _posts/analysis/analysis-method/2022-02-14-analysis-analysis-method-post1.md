@@ -10,7 +10,7 @@ categories:
   - analysis-method
 ---
 
-## 유저데이터 분석하기
+## 분석 : 유저데이터 분석하기
 
 ### 목차
 
