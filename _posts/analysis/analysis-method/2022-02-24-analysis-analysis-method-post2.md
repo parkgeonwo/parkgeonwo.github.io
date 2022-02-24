@@ -1,6 +1,6 @@
 ---
 layout: post
-title: analysis-analysis-method-post1
+title: analysis-analysis-method-post2
 description: >
 
 sitemap: false
