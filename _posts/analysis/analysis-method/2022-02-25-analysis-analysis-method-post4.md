@@ -64,15 +64,30 @@ X와 Y의 관계를 선형으로 나타낼 수 있을 때
 
 ![image](https://user-images.githubusercontent.com/87109907/155887069-c864678a-d7aa-4be7-8439-73423c2e7fb1.png)
 
+선형식은 간단히 sigmoid 함수를 통해서 (0,1)을 예측하는 선으로 바꿀 수 있다.
 
+![image](https://user-images.githubusercontent.com/87109907/155887199-4557f4f5-5398-4aad-bedb-a72e79c50cf5.png)
 
+Y = Sigmoid(Wx+b)
 
+- 로지스틱 회귀 분석의 활용
+  - 예측하려고 하는 값이 이분형(1 또는 0) 일 때 사용한다.
+  - 고객 신용도 평가 (우량 / 불량 예측)
+  - 질병 예측 (질병 발생 확률 예측)
 
+- 우리가 살펴본 데이터에는 어떤 모델을 사용할까?
+- 목적
+  - 우리가 산정한 마케팅 예산을 각 켐페인에 분배하고 싶다.
+  - 각 캠페인의 유저 전환에 대한 상대적은 기여도를 알고 싶다.
+  - 켐페인의 종류는 현재 50개이다.
+  - 유저가 본 켐페인들과 해당 켐페인의 카테고리 등 모든 피쳐들을 모아서 <strong>전환을 예측하는 모델</strong>을 만든다. <strong>전환(Conversion) 은 0 또는 1이다</strong> = Logistic Regression 
 
+![image](https://user-images.githubusercontent.com/87109907/155887344-2e3d987f-44f3-4c55-bb2d-6fb13c360eca.png)
 
+- 어떤 켐페인이 전환에 영향을 많이 미쳤을까?
+  - 여기서 X는 유저가 본 켐페인들, W는 각 켐페인이 Y에 미친 영향으로 이해
 
-
-
+- 모델이 학습된 후 각 켐페인이 전환에 얼마나 기여했는지 <strong>모델이 예측한 파라미터 W</strong>를 가져오려고 한다.
 
 
 
